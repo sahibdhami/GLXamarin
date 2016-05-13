@@ -1,0 +1,8 @@
+/Users/RSD/Projects/goodluck/SQLiteData/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/RSD/Projects/goodluck/SQLiteData/obj/Debug/optimized/
+/Users/RSD/Projects/goodluck/SQLiteData/bin/Debug/SQLiteData.dll.mdb
+/Users/RSD/Projects/goodluck/SQLiteData/bin/Debug/SQLiteData.dll
+/Users/RSD/Projects/goodluck/SQLiteData/obj/Debug/SQLiteData.dll
+/Users/RSD/Projects/goodluck/SQLiteData/obj/Debug/SQLiteData.dll.mdb
+/Users/RSD/Projects/goodluck/SQLiteData/bin/Debug/IContent.dll
+/Users/RSD/Projects/goodluck/SQLiteData/bin/Debug/IContent.dll.mdb

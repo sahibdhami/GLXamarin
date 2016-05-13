@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="GLApp/GLApp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6.9.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GLApp/UserTableView.cs">
+    <Files>
+      <File FileName="GLApp/ViewController.cs" Line="24" Column="4" />
+      <File FileName="BAL/BAL/Model/Contents.cs" Line="8" Column="18" />
+      <File FileName="BAL/BAL/Model/IContents.cs" Line="12" Column="11" />
+      <File FileName="BAL/BAL/BAL.cs" Line="30" Column="30" />
+      <File FileName="GLApp/UserTableView.cs" Line="22" Column="1" />
+      <File FileName="GLApp/Main.cs" Line="12" Column="1" />
+      <File FileName="DAL/DAL.cs" Line="9" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/RSD/Projects/goodluck/DAL/DAL.cs" line="15" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

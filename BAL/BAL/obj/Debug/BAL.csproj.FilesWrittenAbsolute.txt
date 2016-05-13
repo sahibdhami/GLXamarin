@@ -1,0 +1,11 @@
+/Users/RSD/Projects/goodluck/BAL/BAL/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/RSD/Projects/goodluck/BAL/BAL/obj/Debug/optimized/
+/Users/RSD/Projects/goodluck/BAL/BAL/bin/Debug/BAL.dll.mdb
+/Users/RSD/Projects/goodluck/BAL/BAL/bin/Debug/BAL.dll
+/Users/RSD/Projects/goodluck/BAL/BAL/obj/Debug/BAL.dll
+/Users/RSD/Projects/goodluck/BAL/BAL/obj/Debug/BAL.dll.mdb
+/Users/RSD/Projects/goodluck/BAL/BAL/bin/Debug/Newtonsoft.Json.dll
+/Users/RSD/Projects/goodluck/BAL/BAL/bin/Debug/DAL.dll
+/Users/RSD/Projects/goodluck/BAL/BAL/bin/Debug/DAL.dll.mdb
+/Users/RSD/Projects/goodluck/BAL/BAL/bin/Debug/IContent.dll
+/Users/RSD/Projects/goodluck/BAL/BAL/bin/Debug/IContent.dll.mdb

@@ -1,0 +1,16 @@
+/Users/RSD/Projects/goodluck/GLApp/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/RSD/Projects/goodluck/GLApp/obj/iPhone/Debug/ibtool/LaunchScreen.nib
+/Users/RSD/Projects/goodluck/GLApp/obj/iPhone/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/RSD/Projects/goodluck/GLApp/obj/iPhone/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/RSD/Projects/goodluck/GLApp/obj/iPhone/Debug/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/RSD/Projects/goodluck/GLApp/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/RSD/Projects/goodluck/GLApp/obj/iPhone/Debug/actool/partial-info.plist
+/Users/RSD/Projects/goodluck/GLApp/obj/iPhone/Debug/actool/asset-manifest.plist
+/Users/RSD/Projects/goodluck/GLApp/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/RSD/Projects/goodluck/GLApp/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/RSD/Projects/goodluck/GLApp/obj/iPhone/Debug/optimized/
+/Users/RSD/Projects/goodluck/GLApp/bin/iPhone/Debug/GLApp.exe.mdb
+/Users/RSD/Projects/goodluck/GLApp/bin/iPhone/Debug/GLApp.exe
+/Users/RSD/Projects/goodluck/GLApp/obj/iPhone/Debug/GLApp.exe
+/Users/RSD/Projects/goodluck/GLApp/obj/iPhone/Debug/GLApp.exe.mdb
+/Users/RSD/Projects/goodluck/GLApp/bin/iPhone/Debug/Calabash.dll

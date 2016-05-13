@@ -1,0 +1,6 @@
+/Users/RSD/Projects/goodluck/IContent/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/RSD/Projects/goodluck/IContent/obj/Debug/optimized/
+/Users/RSD/Projects/goodluck/IContent/bin/Debug/IContent.dll.mdb
+/Users/RSD/Projects/goodluck/IContent/bin/Debug/IContent.dll
+/Users/RSD/Projects/goodluck/IContent/obj/Debug/IContent.dll
+/Users/RSD/Projects/goodluck/IContent/obj/Debug/IContent.dll.mdb

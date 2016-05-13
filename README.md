@@ -8,4 +8,4 @@ If you are new to Xamarin and wanted to know how the things should be. It has fo
 5. Division of logic across business layer, data access layer, ViewModel.
 6. Use of interface to switch between different type of data (SQLIte or json etc)
 
-Please, excuse look and feel, not even 5 mints are spent on that :-)
+Please, excuse look and feel :-)

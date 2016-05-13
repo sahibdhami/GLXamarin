@@ -12,7 +12,11 @@ namespace SQLiteData
 
 		public DB ()
 		{
-			//DeleteContent ();
+			//For deleting the data
+			//DeleteContent (); 
+
+			//Uncomment following line once to load data, 
+			//next time onward it has to commented again to avoid duplicate insertion.
 			//InsertContent ();
 		}
 
